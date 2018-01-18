@@ -1,0 +1,5 @@
+Installing VIM editor in Ubuntu:
+-Open the terminal
+-type in "sudo apt install vim"
+-type in the password of the adminstrator and press "y" when it prompts to install
+-make sure you have the internet connection
